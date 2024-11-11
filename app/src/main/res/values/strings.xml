@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">El Possante - anuncie seu veículo</string>
+    <string name="error_validate_form">Por favor, preencha o campo %1$s</string>
+    <string name="unknown_error">Erro desconhecido, tente novamente!</string>
+    <string name="carro_atualizado">Carro atualizado com sucesso!</string>
+    <string name="erro_exclusao">Erro ao excluir o registro</string>
+    <string name="registro_excluido">Registro excluído com sucesso!</string>
+    <string name="error_validate_take_picture">A imagem não foi incluída.</string>
+    <string name="upload_failed">Falha ao realizar o upload</string>
+    <string name="erro_ao_criar_o_registro">Erro ao criar o registro</string>
+    <string name="registro_inserido_com_sucesso">Registro inserido com sucesso</string>
+</resources>
